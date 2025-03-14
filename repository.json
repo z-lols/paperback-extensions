@@ -1,0 +1,20 @@
+{
+  "name": "z Paperback Extensions",
+  "identifier": "com.z-lols.paperback-extensions",
+  "sourceURL": "https://raw.githubusercontent.com/z-lols/paperback-extensions/main/",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2025-14-03",
+      "sources": [
+        {
+          "name": "MangaDex",
+          "identifier": "com.mangadex",
+          "scriptURL": "https://raw.githubusercontent.com/z-lols/paperback-extensions/main/MangaDex.js",
+          "language": "en",
+          "version": "1.0.0"
+        }
+      ]
+    }
+  ]
+}
